@@ -1,0 +1,7 @@
+*.pyc
+*~
+_pychate_
+platina
+db.sqlite3
+/static
+.DS_Store
